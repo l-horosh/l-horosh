@@ -6,13 +6,13 @@ I am a Data Analyst with **3+ years of commercial experience** and a strong foun
 
 I don't just build models; I design automated end-to-end data pipelines and create interactive dashboards that translate complex datasets into clear, actionable business metrics. 
 
-** What I do:**
+**What I do:**
 - **Data Engineering:** Designing automated ETL workflows to clean, process, and structure messy data from multiple sources.
 - **Machine Learning & AI:** Building predictive models (SARIMA, Neural Networks, Clustering) and custom NLP classification pipelines.
 - **Business Intelligence:** Crafting executive-ready dashboards to track KPIs, financial metrics, and operational performance.
 
 ---
-** Tech Stack & Tools:**
+**Tech Stack & Tools:**
 
 - **Languages:** Python, SQL, Advanced Excel (VBA)
 - **Data Engineering:** Snowflake, Relational Databases, API Integration
